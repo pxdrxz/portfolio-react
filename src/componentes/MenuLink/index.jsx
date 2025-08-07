@@ -12,7 +12,7 @@ export default function MenuLink () {
         `} to="/">
         Inicio
     </Link>
-    <div></div>
+    
     <Link className={`
         ${styles.link}
         ${localizacao.pathname === "/SobreMim" ? styles.linkDestacado : ""}
