@@ -29,9 +29,10 @@
 .imagens > .minhaFoto {
     position: absolute;
     right: 19px ;
-    bottom: 19px;
-    width: 17vw;
+    bottom: 38px;
+    width: 18vw;
     border-radius: 50%;
+    height: 18vw;
 }
  
 .imagens > .circuloColorido {
