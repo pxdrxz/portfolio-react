@@ -9,9 +9,9 @@ export default function Inicio() {
             <Banner />
 
             <ul className={styles.posts}>
-                 {posts.map((post) => (
+                {posts.map((post) => (
                     <li key={post.id}>
-                      <Post post={post} /> 
+                        <Post post={post} />
                     </li>
                 ))}
             </ul>

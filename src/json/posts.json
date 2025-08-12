@@ -1,44 +1,42 @@
-
-
 [
   {
     "id": 1,
-    "titulo": "Título do Post 1",
+    "titulo": "HTML5",
     "texto": "Texto do Post 1..."
   },
   {
     "id": 2,
-    "titulo": "Título do Post 2",
+    "titulo": "React.Js",
     "texto": "Texto do Post 2..."
   },
   {
     "id": 3,
-    "titulo": "Título do Post 3",
+    "titulo": "Bootstrap",
     "texto": "Texto do Post 3..."
   },
   {
     "id": 4,
-    "titulo": "Título do Post 4",
+    "titulo": "JavaScript",
     "texto": "Texto do Post 4..."
   },
   {
     "id": 5,
-    "titulo": "Título do Post 5",
+    "titulo": "ColdFusion",
     "texto": "Texto do Post 5..."
   },
   {
     "id": 6,
-    "titulo": "Título do Post 6",
+    "titulo": "SQLServer",
     "texto": "Texto do Post 6..."
   },
   {
     "id": 7,
-    "titulo": "Título do Post 7",
+    "titulo": "Postman",
     "texto": "Texto do Post 7..."
   },
    {
     "id": 8,
-    "titulo": "Título do Post 8",
+    "titulo": "SoapUI",
     "texto": "Texto do Post 8..."
   }
 ]
