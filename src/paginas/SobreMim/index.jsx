@@ -1,5 +1,17 @@
-export default function SobreMim () {
-    return (
-        <h1>Sobre Mim...</h1>
-    )
+import styles from "./SobreMim.module.css";
+import PostModelo from "componentes/PostModelo";
+import FotoCapa from "assets/sobre_mim_capa.png";
+
+export default function SobreMim() {
+  return (
+    <PostModelo
+      fotoCapa={FotoCapa}   
+      titulo="Sobre mim"
+    >
+      <h3 className={styles.subtitulo}>
+        Olá, eu sou o Pedro!
+      </h3>
+
+    </PostModelo>
+  );
 }

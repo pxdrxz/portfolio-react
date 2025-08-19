@@ -1,6 +1,6 @@
 .rodape {
-    background-color: var(--azul-escuro);
-    color: var(--branco);
+    background-color: #FFFAFA;
+    color: #FFFAFA;
     padding: 2rem 0;
     display: flex;
     justify-content: center;
@@ -10,4 +10,5 @@
 
 .pp {
     font: bold;
+    color: black;
 }

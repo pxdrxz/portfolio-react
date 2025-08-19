@@ -1,10 +1,9 @@
 import styles from "./Rodape.module.css"
-import { ReactComponent as MarcaRegistrada } from "assets/MarcaRegistrada.svg"
 
 export default function Rodape () {
     return (
         <footer className={styles.rodape}>
-            <h4 className={styles.pp}>Pedro Henrique</h4><MarcaRegistrada />
+            <h4 className={styles.pp}>Pedro Ferreira™</h4>
         </footer>
     )
 }
