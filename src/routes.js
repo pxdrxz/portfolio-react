@@ -5,12 +5,14 @@ import Menu from "./componentes/Menu";
 import Rodape from "./componentes/Rodape";
 import PaginaPadrao from "componentes/PaginaPadrao";
 import Post from "paginas/Post"
+import NaoEncontrado from "paginas/NaoEncontrado";
+//import Banner from "componentes/Banner"; <Banner/>
 
 function App() {
   return (
     <BrowserRouter>
       <Menu />
-
+        
       <Routes>
         <Route path="/" element={<PaginaPadrao/>}>
         <Route index element={<Inicio />} />
@@ -18,7 +20,7 @@ function App() {
         <Route path="posts/:id" element={<Post/>} />
       
        
-        <Route path="*" element={<div>Pagina nao encontrada</div>} />
+        <Route path="*" element={<NaoEncontrado/>} />
       </Route>
     </Routes>
     
