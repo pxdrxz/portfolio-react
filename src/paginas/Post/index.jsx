@@ -1,11 +1,12 @@
 import "./Post.css";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import posts from "json/posts.json";
 import PostModelo from "componentes/PostModelo";
 import fotoCapa from "assets/sobre_mim_capa.png";
 import ReactMarkdown from "react-markdown";
 
 export default function Post() {
+    const navegar = useNavigate()
     const parametros = useParams();
 
     const post = posts.find((post) => {
@@ -27,7 +28,6 @@ export default function Post() {
                     {post.texto}
                 </ReactMarkdown>
             </div>
-
         </PostModelo>
     )
 }

@@ -36,6 +36,7 @@ export default function NaoEncontrado() {
                         alt="Cachorro de óculos"
                     />
                     <div className={styles.espacoEmBranco}></div>
+                    
                 </div>
             </div>
         </>

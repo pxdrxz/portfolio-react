@@ -17,7 +17,7 @@ function App() {
         <Route path="/" element={<PaginaPadrao/>}>
         <Route index element={<Inicio />} />
         <Route path="SobreMim" element={<SobreMim />} /> 
-        <Route path="posts/:id" element={<Post/>} />
+        <Route path="posts/:id/*" element={<Post/>} />
       
        
         <Route path="*" element={<NaoEncontrado/>} />
