@@ -2,42 +2,41 @@
   {
     "id": 1,
     "titulo": "HTML5",
-    "texto": "# HTML5\n\nHTML5 (Hypertext Markup Language, versão 5) é uma linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet, originalmente proposta por Opera Software. É a quinta versão da linguagem HTML. Esta versão traz consigo importantes mudanças quanto ao papel do HTML no mundo da Web, através de novas funcionalidades como semântica e acessibilidade.\n\nAplicado em:\n\n![Imagem 1](/assets/posts/fiaplogo.png)\n![Imagem 2](/assets/posts/itpowerlogo.png)\n![Imagem 3](/assets/posts/aluralogo.png)"
+    "texto": "# HTML5\n\nHypertext Markup Language, version 5 (**HTML5**) is a markup language for the World Wide Web and a key Internet technology, originally proposed by Opera Software. It is the fifth version of the HTML language. This version brings important changes regarding the role of HTML in the web world, through new features such as semantics and accessibility.\n\n**Where was it applied?**\n\n![Image 1](/assets/posts/fiaplogo.png)\n![Image 2](/assets/posts/itpowerlogo.png)\n![Image 3](/assets/posts/aluralogo.png)"
   },
   {
     "id": 2,
     "titulo": "React.Js",
-    "texto": "# React\n\nO React (também denominado React.js ou ReactJS) é uma biblioteca front-end JavaScript de código aberto com foco em criar interfaces de usuário em páginas web, criado em 2011 pelo Facebook, com o objetivo de otimizar a atualização e a sincronização de atividades simultâneas no feed de notícias da rede social e melhorar a manutenção de código, com a criação de views declarativas e componentes.\n\nAplicado em:\n\n![Imagem 1](/assets/posts/fiaplogo.png)\n![Imagem 3](/assets/posts/aluralogo.png)"
+    "texto": "# React\n\nReact (also called React.js or ReactJS) is an open-source front-end JavaScript library focused on creating user interfaces for web pages, created in 2011 by Facebook, aimed at optimizing updates and synchronization of simultaneous activities in the social network news feed and improving code maintenance through the creation of declarative views and components.\n\n**Where was it applied?**\n\n![Image 1](/assets/posts/fiaplogo.png)\n![Image 3](/assets/posts/aluralogo.png)\n\n**How was it used?**\n\nCurrently at an academic level, I use React.js to create some applications to improve my knowledge of it. These pages were created 100% in React."
   },
   {
     "id": 3,
     "titulo": "Bootstrap",
-    "texto": "# Bootstrap\n\nBootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.\n\nAplicado em:\n\n![Imagem 2](/assets/posts/itpowerlogo.png)\n![Imagem 3](/assets/posts/aluralogo.png)"
+    "texto": "# Bootstrap\n\nBootstrap is an open-source web framework for developing front-end interface components for websites and web applications using HTML, CSS, and JavaScript. It is based on design templates for typography, enhancing the user experience on a friendly and responsive site.\n\n**Where was it applied?**\n\n![Image 2](/assets/posts/itpowerlogo.png)\n![Image 3](/assets/posts/aluralogo.png)\n\n**How was it used?**\n\nUsed in most of the projects I worked on at It Power Software, both internal and external. One of the styling frameworks I am most familiar with."
   },
   {
     "id": 4,
     "titulo": "JavaScript",
-    "texto": "# JavaScript\n\nJavaScript (frequentemente abreviado como JS) é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e funcional). Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. JavaScript permite páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web.\n\nAplicado em:\n\n![Imagem 1](/assets/posts/fiaplogo.png)\n![Imagem 2](/assets/posts/itpowerlogo.png)\n![Imagem 3](/assets/posts/aluralogo.png)"
+    "texto": "# JavaScript\n\nJavaScript (often abbreviated as JS) is a high-level, interpreted, weakly typed, multi-paradigm programming language (prototypal, object-oriented, imperative, and functional). Along with HTML and CSS, JavaScript is one of the three main technologies of the World Wide Web. JavaScript enables interactive web pages and is therefore an essential part of web applications.\n\n**Where was it applied?**\n\n![Image 1](/assets/posts/fiaplogo.png)\n![Image 2](/assets/posts/itpowerlogo.png)\n![Image 3](/assets/posts/aluralogo.png)\n\n**How was it used?**\n\nI gained extensive experience with it during my time at It Power Software. Used in both Front-End and Back-End, as well as automation and execution of routines."
   },
   {
     "id": 5,
     "titulo": "Node.Js",
-    "texto": "# Node.js\n\nNode.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.\n\nAplicado em:\n\n![Imagem 1](/assets/posts/fiaplogo.png)\n![Imagem 3](/assets/posts/aluralogo.png)"
+    "texto": "# Node.js\n\nNode.js is an open-source, cross-platform software based on Google's V8 engine that allows the execution of JavaScript code outside a web browser.\n\n**Where was it applied?**\n\n![Image 1](/assets/posts/fiaplogo.png)\n![Image 3](/assets/posts/aluralogo.png)\n\n**How was it used?**\n\nCurrently at an academic level, it was initially introduced to me at university. I now use it to develop some applications for study purposes and to improve my existing knowledge."
   },
   {
     "id": 6,
     "titulo": "SQLServer",
-    "texto": "# Microsoft SQL Server\n\nMicrosoft SQL Server é um sistema gerenciador de Banco de dados relacional (SGBD) desenvolvido pela Sybase em parceria com a Microsoft.\n\nAplicado em:\n\n![Imagem 1](/assets/posts/fiaplogo.png)\n![Imagem 2](/assets/posts/itpowerlogo.png)"
+    "texto": "# Microsoft SQL Server\n\nMicrosoft SQL Server is a relational database management system (RDBMS) developed by Sybase in partnership with Microsoft.\n\n**Where was it applied?**\n\n![Image 1](/assets/posts/fiaplogo.png)\n![Image 2](/assets/posts/itpowerlogo.png)\n\n**How was it used?**\n\nMain database used during my time at It Power Software, storing data for almost all the projects I was involved in, both in PROD and UAT environments. Familiar with its main functions, except for executing/modifying procedures (currently under study)."
   },
   {
     "id": 7,
     "titulo": "Postman",
-    "texto": "# Postman\n\nO Postman é uma plataforma e uma ferramenta que permite a desenvolvedores criar, testar, documentar e compartilhar APIs de forma colaborativa e eficiente. Ele simplifica o envio de requisições HTTP/HTTPS, a análise de respostas, a automação de testes e a colaboração em equipe, servindo como um \"navegador para APIs\" que facilita o trabalho com diferentes tipos de APIs e formatos de dados.\n\nAplicado em:\n\n![Imagem 2](/assets/posts/itpowerlogo.png)"
+    "texto": "# Postman\n\nPostman is a platform and tool that allows developers to create, test, document, and share APIs collaboratively and efficiently. It simplifies sending HTTP/HTTPS requests, analyzing responses, automating tests, and team collaboration, acting as a \"browser for APIs\" that facilitates working with different types of APIs and data formats.\n\n**Where was it applied?**\n\n![Image 2](/assets/posts/itpowerlogo.png)\n\n**How was it used?**\n\nUsed by me at It Power Software to test requests and email sending that could not be executed via the interface, as they consumed an internal endpoint."
   },
-   {
+  {
     "id": 8,
     "titulo": "SoapUI",
-    "texto": "# SoapUI\n\nSoapUI é uma ferramenta de código aberto, desenvolvida em Java, utilizada para testar APIs e serviços web, incluindo os de protocolo SOAP, REST e outros. Ela oferece funcionalidades para testes funcionais, de carga e de segurança, permitindo a automação de testes, a inspeção e simulação de serviços e a validação de requisições e respostas.\n\nAplicado em:\n\n![Imagem 2](/assets/posts/itpowerlogo.png)"
+    "texto": "# SoapUI\n\nSoapUI is an open-source tool developed in Java, used to test APIs and web services, including SOAP, REST, and others. It offers features for functional, load, and security testing, allowing automation of tests, inspection and simulation of services, and validation of requests and responses.\n\n**Where was it applied?**\n\n![Image 2](/assets/posts/itpowerlogo.png)\n\n**How was it used?**\n\nUsed to test specific service requests we provided, particularly to simulate the submission of claims and their data."
   }
 ]
-

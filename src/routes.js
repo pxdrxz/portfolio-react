@@ -6,11 +6,13 @@ import Rodape from "./componentes/Rodape";
 import PaginaPadrao from "componentes/PaginaPadrao";
 import Post from "paginas/Post"
 import NaoEncontrado from "paginas/NaoEncontrado";
+import ScrollToTop from "componentes/ScrollToTop";
 //import Banner from "componentes/Banner"; <Banner/>
 
 function App() {
   return (
     <BrowserRouter>
+      <ScrollToTop/>
       <Menu />
         
       <Routes>

@@ -12,7 +12,7 @@ export default function Inicio() {
 
             <PostModelo
                 fotoCapa={FotoCapa}
-                titulo="Minhas Competências"
+                titulo="My Skills:"
             ></PostModelo>
 
             <ul className={styles.posts}>

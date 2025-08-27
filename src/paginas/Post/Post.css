@@ -28,7 +28,10 @@
 }
 
 .post-markdown-container img {
-   width: 8%;
+   height: 130px; 
+   width: auto;  
+   vertical-align: middle;
+   margin: 0 10px; 
 }
 
 .post-markdown-container ul {
